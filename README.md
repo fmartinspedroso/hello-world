@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi!
+i'm me. and me like to program!
+Enjoy
